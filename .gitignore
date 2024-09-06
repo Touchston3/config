@@ -1,6 +1,7 @@
 *
 
-!/.gitignore
-!/alacritty/
+!.gitignore
 !/nvim/
+!/alacritty/
 !/tmux/
+
