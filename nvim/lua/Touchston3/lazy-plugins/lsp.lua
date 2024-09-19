@@ -38,6 +38,7 @@ return { -- LSP Configuration & Plugins
 		vim.keymap.set("n", "<leader>gd", vim.lsp.buf.definition, {})
 		vim.keymap.set("n", "<leader>gi", vim.lsp.buf.implementation, {})
 		vim.keymap.set("n", "<leader>rn", vim.lsp.buf.rename, {})
+		vim.keymap.set("n", "<leader>gh", vim.lsp.buf.hover, {})
 		vim.keymap.set("n", "<leader>gr", require("telescope.builtin").lsp_references, {})
 		vim.keymap.set("n", "<leader>ca", vim.lsp.buf.code_action, {})
 	end
