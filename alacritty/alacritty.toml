@@ -2,7 +2,7 @@
 import = ["~/.config/alacritty/kanagawa.toml" ]
 
 [window]
-padding = {x = 5, y = 5}
+padding = {x = 0, y = 0}
 opacity = 1
 [env]
 term = "xterm-256color"
