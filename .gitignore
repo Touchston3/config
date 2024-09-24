@@ -2,7 +2,7 @@
 
 !.gitignore
 !/nvim/
-!/alacritty/
+!/kitty/
 !/tmux/
 /tmux/plugins/*
 
