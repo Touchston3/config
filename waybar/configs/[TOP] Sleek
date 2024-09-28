@@ -5,10 +5,10 @@
 "include": "~/.config/waybar/modules",
 "layer": "top",
 "position": "top",
-"height": 14,
+"height": 18,
 "margin-left": 10,
 "margin-right": 10,
-"margin-top": 2,
+"margin-top": 10,
 	
 "modules-left": [
 	"custom/menu",
