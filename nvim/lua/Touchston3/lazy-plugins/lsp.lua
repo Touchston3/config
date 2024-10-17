@@ -20,6 +20,8 @@ return { -- LSP Configuration & Plugins
 				"clangd",
 				"glsl_analyzer",
 				"cmake",
+				"jsonls",
+				"jdtls",
 			},
 		})
 		require("mason-lspconfig").setup_handlers({
